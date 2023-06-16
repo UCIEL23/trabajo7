@@ -1,12 +1,9 @@
-/*
- * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
- * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Class.java to edit this template
- */
+
 package Principal;
 
 /**
  *
- * @author Ismasante 
+ * @author Uciel 
  */
 public class Auto {
     protected String placa;
